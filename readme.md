@@ -1,4 +1,3 @@
 ## Hello, Git.
 
-- I am adding this from master.
-g
+- I am adding this from feature-branch.
